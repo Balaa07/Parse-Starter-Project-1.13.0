@@ -25,7 +25,7 @@ public class StarterApplication extends Application {
   public void onCreate() {
     super.onCreate();
 
-    // Enable Local Datastore.
+    // Enable Local Datast.
     Parse.enableLocalDatastore(this);
 
     // Add your initialization code here
